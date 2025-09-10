@@ -1,0 +1,24 @@
+#accelerate
+#torch
+safetensors
+bitsandbytes
+scipy
+#peft :transformers-4.42.4
+#transformers:transformers-4.42.4
+tqdm
+packaging
+pytest
+numpy
+pyyaml
+datasets
+psutil
+setuptools
+jieba
+ruamel.yaml
+typer
+nltk
+rouge_chinese
+sentencepiece
+tensorboard
+#deepspeed==0.14.2
+evaluate
